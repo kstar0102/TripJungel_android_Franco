@@ -1,4 +1,5 @@
-## mazarsayedshar@gmail.com
+## TripJungle Project
+
 This project is made with android-java.
 The basic is to realize the voice assistant using AR and alexa according to the place.
 When you arrive at the location, you receive matching images according to the location from the backend in the form of URL. When users use the camera to view the real substance, if there is a match, they see the description or history of the attraction on the camera using AR technology.
@@ -10,5 +11,5 @@ In addition, the shortest route is specified using Google Maps. Depending on the
 
 ![image](https://user-images.githubusercontent.com/66872038/193786625-9758ada9-70ad-416b-8e34-43a0168a2b1a.png)
 
-
+## seniordev52@gmail.com is my work email.
 ## From Mazar
